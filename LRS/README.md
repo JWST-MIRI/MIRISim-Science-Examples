@@ -8,3 +8,6 @@ This directory houses the Jupyter Notebooks outlining example science cases that
 ## Useful Links
 
 [JWST-Docs LRS page](https://jwst-docs.stsci.edu/display/JTI/MIRI+Low-Resolution+Spectroscopy)
+
+[MIRISim LRS (slit) Walkthrough notebook](http://miri.ster.kuleuven.be/pub/Public/MIRISim_Public/MIRISim_LRS-slit_walkthrough.ipynb)
+[MIRISim LRS (slitless) Walkthrough notebook](http://miri.ster.kuleuven.be/pub/Public/MIRISim_Public/MIRISim_LRS-slitless_walkthrough.ipynb)
