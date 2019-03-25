@@ -8,3 +8,5 @@ This directory houses the Jupyter Notebooks outlining example science cases that
 ## Useful Links
 
 [JWST-Docs MRS page](https://jwst-docs.stsci.edu/display/JTI/MIRI+Medium-Resolution+Spectroscopy)
+
+[MIRISim MRS Walkthrough Notebook](http://miri.ster.kuleuven.be/pub/Public/MIRISim_Public/MIRISim_MRS_walkthrough.ipynb)
