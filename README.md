@@ -13,11 +13,13 @@ At the top level, there are sub-directories for each of the primary light paths 
 Also at the top level, there is a sub-directory for general purpose scene files. These are example scene files created in notebooks that can be output to scene.ini files for use in various simulations.
 
 ----
-##Downloading and Installation
+## Downloading and Installation
 
 A [MIRISim installation page](http://miri.ster.kuleuven.be/bin/view/Public/MIRISim_Public) is maintained by the MIRISim development team, and shows the steps required to install MIRISim into its own Anaconda environment
+
 ----
-##MIRISim data products
+## MIRISim data products
+
 MIRISim produces 'level 1b' data. This means that the data (and associated headers and metadata) output from MIRISim is in the same format as will be delivered to users from the telescope. The data are presented in an un-calibrated state. *The data are ready for ingest into the JWST pipeline for calibration*. For more information about the JWST pipeline, and how to install it, please [see the JWST pipeline pages hosted by STScI](https://jwst-pipeline.readthedocs.io/en/stable/jwst/introduction.html).
 
 ----
