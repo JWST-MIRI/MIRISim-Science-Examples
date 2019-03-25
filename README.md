@@ -24,7 +24,9 @@ MIRISim produces 'level 1b' data. This means that the data (and associated heade
 
 ----
 ## Noted limitations of MIRISim
+
 MIRISim does not support mosaiced observations, nor does it simulate any of the coronographic modes. 
+
 ----
 ## Contributing your own Science Case
 If you would like to contribute a notebook to this repository, please use the template notebook provided, and link to any input data required for the simulation. Then issue a pull request for it to be incorporated into the repository.
