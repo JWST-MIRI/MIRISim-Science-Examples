@@ -14,6 +14,7 @@ Also at the top level, there is a sub-directory for general purpose scene files.
 
 ----
 ##Downloading and Installation
+
 A [MIRISim installation page](http://miri.ster.kuleuven.be/bin/view/Public/MIRISim_Public) is maintained by the MIRISim development team, and shows the steps required to install MIRISim into its own Anaconda environment
 ----
 ##MIRISim data products
