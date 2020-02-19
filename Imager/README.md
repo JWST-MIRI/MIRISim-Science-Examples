@@ -12,7 +12,7 @@ MIRISim does not simulate coronographic observations
 ---
 ## Examples
 
-1) [MIRISim_IMA_1Zw18_egVersion.ipynb](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/Imager/MIRISim_IMA_1Zw18_egVersion.ipynb) simulates observing a resolved stellar population in a local galalxy (1 Zw 18) with using several filters.  
+1) [MIRISim_IMA_1Zw18_egVersion.ipynb](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/Imager/MIRISim_IMA_1Zw18_egVersion.ipynb) simulates observing a resolved stellar population including YSOs and AGb stars in a local galaxy (1 Zw 18) with using several filters.  In addition to this notebook four files representing the spectra of YSOs and AGB stars need to be downloaded to successfully run this notebook. These files are: [av_CAGB.txt](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/Imager/av_CAGB.txt),  [av_OAGB.txt](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/Imager/av_OAGB.txt),  [av_YSO1.txt](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/Imager/av_YSO1.txt),  [av_YSO3.txt](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/Imager/av_YSO3.txt). 
 
 ----
 ## Useful Links
