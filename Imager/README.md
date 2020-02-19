@@ -8,6 +8,12 @@ This directory houses the Jupyter Notebooks outlining example science cases that
 
 MIRISim does not simulate coronographic observations
 
+
+---
+## Examples
+
+1) [MIRISim_IMA_1Zw18_egVersion.ipynb](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/Imager/MIRISim_IMA_1Zw18_egVersion.ipynb) simulates observing a resolved stellar population in a local galalxy (1 Zw 18) with using several filters.  
+
 ----
 ## Useful Links
 
