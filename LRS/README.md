@@ -3,6 +3,11 @@
 
 This directory houses the Jupyter Notebooks outlining example science cases that can be realised using the MIRI Low Resolution Spectrometer (LRS).
 
+---
+## Examples
+
+1) [MIRISim_YDwarf_LRS.ipynb](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/LRS/MIRISim_YDwarf_LRS) simulates observing the cool atmosphere of a Y dwarf with the LRS. In this notebook we create a scene with a point source representing the Y dwarf, add a model atmosphere for its spectral energy distribution (SED), and run through a MIRISim simulation. The file [morley_ydwarf_mirisim.txt](https://github.com/JWST-MIRI/MIRISim-Science-Examples/blob/master/LRS/morley_ydwarf_mirisim.txt) needs to be downloaded to successfully run this notebook.
+
 
 ----
 ## Useful Links
